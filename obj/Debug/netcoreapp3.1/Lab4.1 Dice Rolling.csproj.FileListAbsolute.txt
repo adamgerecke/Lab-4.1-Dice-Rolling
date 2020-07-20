@@ -1,0 +1,13 @@
+C:\devbuild4\Lab4.1 Dice Rolling\bin\Debug\netcoreapp3.1\Lab4.1 Dice Rolling.exe
+C:\devbuild4\Lab4.1 Dice Rolling\bin\Debug\netcoreapp3.1\Lab4.1 Dice Rolling.deps.json
+C:\devbuild4\Lab4.1 Dice Rolling\bin\Debug\netcoreapp3.1\Lab4.1 Dice Rolling.runtimeconfig.json
+C:\devbuild4\Lab4.1 Dice Rolling\bin\Debug\netcoreapp3.1\Lab4.1 Dice Rolling.runtimeconfig.dev.json
+C:\devbuild4\Lab4.1 Dice Rolling\bin\Debug\netcoreapp3.1\Lab4.1 Dice Rolling.dll
+C:\devbuild4\Lab4.1 Dice Rolling\bin\Debug\netcoreapp3.1\Lab4.1 Dice Rolling.pdb
+C:\devbuild4\Lab4.1 Dice Rolling\obj\Debug\netcoreapp3.1\Lab4.1 Dice Rolling.csprojAssemblyReference.cache
+C:\devbuild4\Lab4.1 Dice Rolling\obj\Debug\netcoreapp3.1\Lab4.1 Dice Rolling.AssemblyInfoInputs.cache
+C:\devbuild4\Lab4.1 Dice Rolling\obj\Debug\netcoreapp3.1\Lab4.1 Dice Rolling.AssemblyInfo.cs
+C:\devbuild4\Lab4.1 Dice Rolling\obj\Debug\netcoreapp3.1\Lab4.1 Dice Rolling.csproj.CoreCompileInputs.cache
+C:\devbuild4\Lab4.1 Dice Rolling\obj\Debug\netcoreapp3.1\Lab4.1 Dice Rolling.dll
+C:\devbuild4\Lab4.1 Dice Rolling\obj\Debug\netcoreapp3.1\Lab4.1 Dice Rolling.pdb
+C:\devbuild4\Lab4.1 Dice Rolling\obj\Debug\netcoreapp3.1\Lab4.1 Dice Rolling.genruntimeconfig.cache
